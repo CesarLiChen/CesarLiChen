@@ -1,5 +1,5 @@
-# Welcome to the messy place that is my Github. Hi!  
-### The main purpose for this profile overview is to make it easier for me to quickly revisit and check repositories of interest.
+# Welcome to the messy place that is my Github. Hi!👋  
+#### The main purpose for this profile overview is to make it easier for me to quickly revisit and check repositories of interest.
 
 ## Quicklinks  
 [some guides and notes](#assorted-guides-and-reference-notes)  
@@ -9,17 +9,17 @@
 [resumes](#resumes)  
 [misc.](#forgotten-subjects-might-revisit)  
 
-### Assorted guides and reference notes.
+### Assorted guides and reference notes.📖 
 
-### Web development
+### Web development.💻
 
-### Java
+### Java.☕
 
-### Python
+### Python.🐍
 
-### Resumes
+### Resumes.📰
 
-### forgotten subjects, *might* revisit
+### forgotten subjects, *might* revisit💭
 
 <!--
 **CesarLiChen/CesarLiChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
