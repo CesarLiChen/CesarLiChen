@@ -18,6 +18,22 @@
   - Repo that I used to play with branches.  
 
 ### Web development.💻
+##### There is no inherent ranking for the way I organized the list below. At least not *yet*.
+- [Local Library (with Django)](https://github.com/CesarLiChen/local-library-django)
+- [Tic Tac Toe (vanilla JS)](https://github.com/CesarLiChen/tic-tac-toe-js)
+- [Tic Tac Toe (with React)](https://github.com/CesarLiChen/tic-tac-toe-react)
+- [Paint App](https://github.com/CesarLiChen/paint-app-js)
+- [Digital Clock](https://github.com/CesarLiChen/digital-clock-js)
+- [Image Gallery](https://github.com/CesarLiChen/image-gallery-js)
+- [Simple Modal Window](https://github.com/CesarLiChen/simple-modal-window)
+- [Expense Tracker (vanilla JS)](https://github.com/CesarLiChen/expense-tracker-vanilla-js)
+- [Expense Tracker with Backbone.js](https://github.com/CesarLiChen/expense-tracker-backbone-js)
+- [Starter Crypto Tracker](https://github.com/CesarLiChen/starter-crypto-tracker)
+- [Todo List (with React)](https://github.com/CesarLiChen/todo-list-react)
+- JS learning:
+  - [JavaScript repo](https://github.com/CesarLiChen/JavaScript-Repo)
+  - [Algo exercises in JS](https://github.com/CesarLiChen/algorithm-exercises-js)
+  - [DSA in JS (work in progress)](https://github.com/CesarLiChen/data-structures-and-algorithms-js)
 
 ### Java.☕
 - [The Java repo](https://github.com/CesarLiChen?tab=repositories&q=java&type=&language=&sort=)
