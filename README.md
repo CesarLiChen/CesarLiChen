@@ -32,6 +32,10 @@
   - Has several little coding challenges within.
 
 ### Docker.⚓
+- [Docker in a nutshell](https://github.com/CesarLiChen/docker-nutshell)
+  - needs better notes
+- [Docker tutorial notes](https://github.com/CesarLiChen/docker-tutorial-app)
+  - Notes taken while following Docker's official tutorial
 
 ### Resumes.📰
 
