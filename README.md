@@ -20,8 +20,16 @@
 ### Web development.💻
 
 ### Java.☕
+- [The Java repo](https://github.com/CesarLiChen?tab=repositories&q=java&type=&language=&sort=)
+  - Has things I've learned and continue to learn about Java.
+- [Sudoku](https://github.com/CesarLiChen/sudoku-solver-java)
+- [Tic Tac Toe](https://github.com/CesarLiChen/tic-tac-toe-java)
+- [Design Patterns](https://github.com/CesarLiChen/design-patterns-java)
+  - Repo where I store some examples and practice questions from the book **Head First: Design Patterns**. 
 
 ### Python.🐍
+- [The Python repo](https://github.com/CesarLiChen/Python-Repo)
+  - Has several little coding challenges within.
 
 ### Docker.⚓
 
