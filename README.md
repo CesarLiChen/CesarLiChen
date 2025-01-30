@@ -15,7 +15,9 @@
 - [Notes taken while developing with Django](https://github.com/CesarLiChen/hello_world_django)
   - Has notes on: python and django installation, venv, environment variables, django development commands, python requirements, git branches, docker, and railway commands.
 - [Git Branches](https://github.com/CesarLiChen/branches-repo)
-  - Repo that I used to play with branches.  
+  - Repo that I used to play with branches.
+
+[**back to top**⤴️](#quicklinks)
 
 ### Web development.💻
 ##### There is no inherent ranking for the way I organized the list below. At least not *yet*.
@@ -34,6 +36,8 @@
   - [JavaScript repo](https://github.com/CesarLiChen/JavaScript-Repo)
   - [Algo exercises in JS](https://github.com/CesarLiChen/algorithm-exercises-js)
   - [DSA in JS (work in progress)](https://github.com/CesarLiChen/data-structures-and-algorithms-js)
+ 
+[⤴️](#quicklinks)
 
 ### Java.☕
 - [The Java repo](https://github.com/CesarLiChen?tab=repositories&q=java&type=&language=&sort=)
@@ -41,11 +45,15 @@
 - [Sudoku](https://github.com/CesarLiChen/sudoku-solver-java)
 - [Tic Tac Toe](https://github.com/CesarLiChen/tic-tac-toe-java)
 - [Design Patterns](https://github.com/CesarLiChen/design-patterns-java)
-  - Repo where I store some examples and practice questions from the book **Head First: Design Patterns**. 
+  - Repo where I store some examples and practice questions from the book **Head First: Design Patterns**.
+
+[⤴️](#quicklinks)
 
 ### Python.🐍
 - [The Python repo](https://github.com/CesarLiChen/Python-Repo)
   - Has several little coding challenges within.
+
+[⤴️](#quicklinks)
 
 ### Docker.⚓
 - [Docker in a nutshell](https://github.com/CesarLiChen/docker-nutshell)
@@ -53,9 +61,15 @@
 - [Docker tutorial notes](https://github.com/CesarLiChen/docker-tutorial-app)
   - Notes taken while following Docker's official tutorial
 
+[⤴️](#quicklinks)
+
 ### Resumes.📰
 
+[⤴️](#quicklinks)
+
 ### forgotten subjects, *might* revisit💭
+
+[⤴️](#quicklinks)
 
 <!--
 **CesarLiChen/CesarLiChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
