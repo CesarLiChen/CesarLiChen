@@ -8,7 +8,7 @@
 [python](#python)  
 [docker](#docker)  
 [resumes](#resumes)  
-[misc.](#forgotten-subjects-might-revisit)  
+[misc.](#miscellaneous)  
 
 ### Assorted guides and reference notes.📖 
 - [Starter Git and Github setup (not a step-by-step guide)](https://github.com/CesarLiChen/git-and-github-aid)
@@ -67,7 +67,8 @@
 
 [⤴️](#quicklinks)
 
-### forgotten subjects, *might* revisit💭
+### Miscellaneous.💭
+- *empty for now*
 
 [⤴️](#quicklinks)
 
