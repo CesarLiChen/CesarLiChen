@@ -2,16 +2,16 @@
 #### The main purpose for this profile overview is to make it easier for myself to quickly revisit and check repositories of interest.
 
 ## Quick Links  
-[guides and notes](#assorted-guides-and-reference-notes)  
-[web-dev](#web-development)  
-[java](#java)  
-[python](#python)  
-[c-lang](#c)  
-[php and mysql](php-and-mysql)  
-[docker](#docker)  
-[misc.](#miscellaneous)  
+[guides and notes](#assorted-guides-and-reference-notes) 📖  
+[web-dev](#web-development) 💻  
+[java](#java) ☕  
+[python](#python) 🐍  
+[c-lang](#c )🖥️  
+[php and mysql](php-and-mysql) 🗄️  
+[docker](#docker) ⚓  
+[misc.](#miscellaneous) 💭  
 
-### Assorted guides and reference notes 📖 
+### Assorted guides and reference notes
 - [Starter Git and Github setup (not a step-by-step guide)](https://github.com/CesarLiChen/git-and-github-aid)
 - [Notes taken while developing with Django](https://github.com/CesarLiChen/hello_world_django)
   - Has notes on: python and django installation, venv, environment variables, django development commands, python requirements, git branches, docker, and railway commands.
@@ -20,7 +20,7 @@
 
 [**back to top**⤴️](#quick-links)
 
-### Web development 💻
+### Web development
 ##### There is no inherent ranking for the way I organized the list below. At least not *yet*.
 - [Local Library (with Django)](https://github.com/CesarLiChen/local-library-django)
 - [Tic Tac Toe (vanilla JS)](https://github.com/CesarLiChen/tic-tac-toe-js)
@@ -40,7 +40,7 @@
  
 [⤴️](#quick-links)
 
-### Java ☕
+### Java
 - [The Java repo](https://github.com/CesarLiChen?tab=repositories&q=java&type=&language=&sort=)
   - Has things I've learned and continue to learn about Java.
 - [Sudoku](https://github.com/CesarLiChen/sudoku-solver-java)
@@ -50,7 +50,7 @@
 
 [⤴️](#quick-links)
 
-### Python 🐍
+### Python
 - [The Python repo](https://github.com/CesarLiChen/Python-Repo)
   - Has several little coding challenges within.
 
@@ -70,7 +70,7 @@
 
 [⤴️](#quick-links)  
 
-### Docker ⚓
+### Docker
 - [Docker in a nutshell](https://github.com/CesarLiChen/docker-nutshell)
   - needs better notes
 - [Docker tutorial notes](https://github.com/CesarLiChen/docker-tutorial-app)
@@ -78,7 +78,7 @@
 
 [⤴️](#quick-links)
 
-### Miscellaneous 💭
+### Miscellaneous
 - *empty for now*
 
 [⤴️](#quick-links)
