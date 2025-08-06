@@ -6,8 +6,8 @@
 [web-dev](#web-development)  
 [java](#java)  
 [python](#python)  
+[c](#c)  
 [docker](#docker)  
-[resumes](#resumes)  
 [misc.](#miscellaneous)  
 
 ### Assorted guides and reference notes.📖 
@@ -53,6 +53,11 @@
 - [The Python repo](https://github.com/CesarLiChen/Python-Repo)
   - Has several little coding challenges within.
 
+[⤴️](#quicklinks)  
+
+### C 🖥️
+- Placeholder
+
 [⤴️](#quicklinks)
 
 ### Docker.⚓
@@ -60,10 +65,6 @@
   - needs better notes
 - [Docker tutorial notes](https://github.com/CesarLiChen/docker-tutorial-app)
   - Notes taken while following Docker's official tutorial
-
-[⤴️](#quicklinks)
-
-### Resumes.📰
 
 [⤴️](#quicklinks)
 
