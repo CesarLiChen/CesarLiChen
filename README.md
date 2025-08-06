@@ -55,7 +55,7 @@
 
 [⤴️](#quicklinks)  
 
-### C 🖥️
+### C Language 🖥️
 - Placeholder
 
 [⤴️](#quicklinks)
