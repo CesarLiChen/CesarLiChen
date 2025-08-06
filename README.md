@@ -1,12 +1,13 @@
 # Welcome to the messy place that is my Github. Hi!👋  
 #### The main purpose for this profile overview is to make it easier for myself to quickly revisit and check repositories of interest.
 
-## Quicklinks  
+## Quick Links  
 [guides and notes](#assorted-guides-and-reference-notes)  
 [web-dev](#web-development)  
 [java](#java)  
 [python](#python)  
-[c language](#c)  
+[c-lang](#c) 
+[php and mysql](php-and-mysql)  
 [docker](#docker)  
 [misc.](#miscellaneous)  
 
@@ -15,9 +16,9 @@
 - [Notes taken while developing with Django](https://github.com/CesarLiChen/hello_world_django)
   - Has notes on: python and django installation, venv, environment variables, django development commands, python requirements, git branches, docker, and railway commands.
 - [Git Branches](https://github.com/CesarLiChen/branches-repo)
-  - Repo that I used to play with branches.
+  - Repository that I used to play with branches.
 
-[**back to top**⤴️](#quicklinks)
+[**back to top**⤴️](#quick-links)
 
 ### Web development.💻
 ##### There is no inherent ranking for the way I organized the list below. At least not *yet*.
@@ -37,7 +38,7 @@
   - [Algo exercises in JS](https://github.com/CesarLiChen/algorithm-exercises-js)
   - [DSA in JS (work in progress)](https://github.com/CesarLiChen/data-structures-and-algorithms-js)
  
-[⤴️](#quicklinks)
+[⤴️](#quick-links)
 
 ### Java.☕
 - [The Java repo](https://github.com/CesarLiChen?tab=repositories&q=java&type=&language=&sort=)
@@ -47,18 +48,27 @@
 - [Design Patterns](https://github.com/CesarLiChen/design-patterns-java)
   - Repo where I store some examples and practice questions from the book **Head First: Design Patterns**.
 
-[⤴️](#quicklinks)
+[⤴️](#quick-links)
 
 ### Python.🐍
 - [The Python repo](https://github.com/CesarLiChen/Python-Repo)
   - Has several little coding challenges within.
 
-[⤴️](#quicklinks)  
+[⤴️](#quick-links)  
 
 ### C.
-- Placeholder
+- [General C repo](https://github.com/CesarLiChen/c-language)
+- [GTK programming](https://github.com/CesarLiChen/gtk-intro)
+  - Making GUI programs in C with GTK. 
 
-[⤴️](#quicklinks)
+[⤴️](#quick-links)  
+
+### PHP and MySQL
+- [PHP and MySQL installation and configuration](https://github.com/CesarLiChen/php-mysql)
+- [PHP and MySQL Workspace](https://github.com/CesarLiChen/php-mysql-workspace)
+- [Main MySQL repo](https://github.com/CesarLiChen/mysql-repo)
+
+[⤴️](#quick-links)  
 
 ### Docker.⚓
 - [Docker in a nutshell](https://github.com/CesarLiChen/docker-nutshell)
@@ -66,12 +76,12 @@
 - [Docker tutorial notes](https://github.com/CesarLiChen/docker-tutorial-app)
   - Notes taken while following Docker's official tutorial
 
-[⤴️](#quicklinks)
+[⤴️](#quick-links)
 
 ### Miscellaneous.💭
 - *empty for now*
 
-[⤴️](#quicklinks)
+[⤴️](#quick-links)
 
 <!--
 **CesarLiChen/CesarLiChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
