@@ -6,7 +6,7 @@
 [web-dev](#web-development)  
 [java](#java)  
 [python](#python)  
-[c-lang](#c) 
+[c-lang](#c)  
 [php and mysql](php-and-mysql)  
 [docker](#docker)  
 [misc.](#miscellaneous)  
