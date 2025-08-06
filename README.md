@@ -6,7 +6,7 @@
 [web-dev](#web-development)  
 [java](#java)  
 [python](#python)  
-[c language](#c-language)  
+[c language](#c)  
 [docker](#docker)  
 [misc.](#miscellaneous)  
 
@@ -55,7 +55,7 @@
 
 [⤴️](#quicklinks)  
 
-### C Language 🖥️
+### C.
 - Placeholder
 
 [⤴️](#quicklinks)
