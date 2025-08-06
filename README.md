@@ -6,7 +6,7 @@
 [web-dev](#web-development)  
 [java](#java)  
 [python](#python)  
-[c](#c)  
+[c language](#c)  
 [docker](#docker)  
 [misc.](#miscellaneous)  
 
